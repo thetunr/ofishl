@@ -1,5 +1,4 @@
-# Welcome to OFishl, 
-# the Official OCaml Fishing Tournament!
+# Welcome to OFishl,<br />the Official OCaml Fishing Tournament!
 ## Authors: 
   - Parker Rho
   - Sennet Senadheera
