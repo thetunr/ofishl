@@ -1,0 +1,42 @@
+---
+# Members of your group.
+group:
+  - name: Tony Oh
+    netid: do256
+  - name: Parker Rho
+    netid: pkr47
+  - name: Sennet Senadheera
+    netid: sas639
+  - name: Aaron Song
+    netid: ams799
+# Your PM.
+pm:
+  name: Ryan Mistretta
+  netid: rhm255
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "OFishl, the Official OCaml Fishing Tournament"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/pkr47/Final-Project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: "https://youtu.be/We40jUgJJIk"
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Welcome to our fishing game! You, the user, can control the fisher that will
+  move around a lake on a boat. You can swim around, catching fish, and drop off
+  the fish you catch at the store. 
+  
+  The interface will be fully functioned by the mouse, the keys WASD
+  (or the arrow keys), and the keys F, Left-Shift, and X.
+
+  To fish, travel with to the fish visible on the lake and press F. Once a fish
+  bites, play a short mini-game of clicking quick circles on the screen to
+  eventually catch your fish! 
+
+  Collect coins to increase your score and avoid dangerous mines!
+
+  You with more money in this game, you will be able to purchase better
+  fishing equipment as you progress further into our game! The goal is to buy 
+  bait and manage resources to make the fish more valuable, and eventually 
+  buy the 3110 Trophy to win the game!
